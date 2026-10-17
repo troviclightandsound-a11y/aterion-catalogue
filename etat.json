@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 18:27:34",
+  "updated": "2026-10-17 18:46:10",
   "status": "UPLOADING",
   "uploaded": [
     "Reference_du_jeu_001.zip",
@@ -30,7 +30,11 @@
     "Monde_et_paysages_021.zip",
     "Monde_et_paysages_020.zip",
     "Monde_et_paysages_022.zip",
-    "Archives_historiques_001.zip"
+    "Archives_historiques_001.zip",
+    "Monde_et_paysages_024.zip",
+    "Monde_et_paysages_006.zip",
+    "Ancien_personnage_non_retenu_001.zip",
+    "Monde_et_paysages_005.zip"
   ],
   "total": 41
 }
