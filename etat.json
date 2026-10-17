@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17 19:23:49",
-  "status": "COMPLETE",
+  "updated": "2026-10-17 19:24:20",
+  "status": "UPLOADING",
   "uploaded": [
     "Reference_du_jeu_001.zip",
     "Catalogue_hors_ligne_001.zip",
@@ -44,5 +44,5 @@
     "Bibliotheque_3D_001.zip",
     "Chateau_et_cinematique_001.zip"
   ],
-  "total": 41
+  "total": 45
 }
