@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 19:05:55",
+  "updated": "2026-10-17 19:23:46",
   "status": "UPLOADING",
   "uploaded": [
     "Reference_du_jeu_001.zip",
@@ -38,7 +38,11 @@
     "Monde_et_paysages_023.zip",
     "Ressources_individuelles_001.zip",
     "Bibliotheque_3D_002.zip",
-    "Monde_et_paysages_001.zip"
+    "Monde_et_paysages_001.zip",
+    "Ressources_individuelles_002.zip",
+    "Monde_et_paysages_002.zip",
+    "Bibliotheque_3D_001.zip",
+    "Chateau_et_cinematique_001.zip"
   ],
   "total": 41
 }
