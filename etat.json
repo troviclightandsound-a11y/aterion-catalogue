@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17 19:27:03",
-  "status": "UPLOADING",
+  "updated": "2026-10-17 19:38:38",
+  "status": "COMPLETE",
   "uploaded": [
     "Reference_du_jeu_001.zip",
     "Catalogue_hors_ligne_001.zip",
@@ -43,7 +43,10 @@
     "Monde_et_paysages_002.zip",
     "Bibliotheque_3D_001.zip",
     "Chateau_et_cinematique_001.zip",
-    "Complement_Monde_et_paysages_002.zip"
+    "Complement_Monde_et_paysages_002.zip",
+    "Complement_Monde_et_paysages_001.zip",
+    "Complement_Monde_Unreal_Actuel_002.zip",
+    "Complement_Monde_Unreal_Actuel_001.zip"
   ],
   "total": 45
 }
